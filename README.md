@@ -3,12 +3,15 @@
 
 A desktop application using Electron To monitor my Server's approximate temprature instead of manually checking or buying an expensive sensor.
 
-The app can send messages if the temprature is more that a certain number and also play an alarm wille sending the messages.
+The app can send messages if the tempratures exceeded a certain number and also play an alarm while sending the messages.
 
 ```
 This code only includes the py script and the json file.
 ```
 
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/muhammadalaa20/Vsphere-Monitor/refs/heads/main/screenshot.png)
 
 ## Tech
 
@@ -47,9 +50,6 @@ Install with pip
 }
 ```
 
-## Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/muhammadalaa20/Vsphere-Monitor/refs/heads/main/screenshot.png)
 
 ## Authors
 
