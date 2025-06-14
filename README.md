@@ -7,7 +7,6 @@ The app can send messages if the temprature is more that a certain number and al
 
 ```
 This code only includes the py script and the json file.
-
 ```
 
 
@@ -23,7 +22,6 @@ Install with pip
 
 ```bash
   pip install pyautogui pywhatkit requests pyvmomi urllib3
-
 ```
     
 ## DEMO
