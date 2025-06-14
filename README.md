@@ -47,9 +47,9 @@ Install with pip
 }
 ```
 
-## DEMO
+## Screenshots
 
-![App Demo]([https://github.com/muhammadalaa20/DailyReports/blob/main/dailyreports.gif](https://github.com/muhammadalaa20/Vsphere-Monitor/blob/main/screenshot.png))
+![App Screenshot](https://raw.githubusercontent.com/muhammadalaa20/Vsphere-Monitor/refs/heads/main/screenshot.png)
 
 ## Authors
 
