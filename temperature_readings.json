@@ -1,0 +1,18 @@
+{
+    "System Board 1 Exhaust Temp": {
+        "value": 24.0,
+        "units": "degrees C"
+    },
+    "System Board 1 Inlet Temp": {
+        "value": 17.0,
+        "units": "degrees C"
+    },
+    "Processor 2 Temp": {
+        "value": 34.0,
+        "units": "degrees C"
+    },
+    "Processor 1 Temp": {
+        "value": 29.0,
+        "units": "degrees C"
+    }
+}
