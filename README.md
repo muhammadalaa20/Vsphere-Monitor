@@ -49,7 +49,7 @@ Install with pip
 
 ## DEMO
 
-![App Demo](https://github.com/muhammadalaa20/DailyReports/blob/main/dailyreports.gif)
+![App Demo]([https://github.com/muhammadalaa20/DailyReports/blob/main/dailyreports.gif](https://github.com/muhammadalaa20/Vsphere-Monitor/blob/main/screenshot.png))
 
 ## Authors
 
